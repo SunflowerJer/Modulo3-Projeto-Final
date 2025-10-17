@@ -67,7 +67,7 @@ Este projeto foi pensado para consolidar e praticar habilidades essenciais de de
 
 1. Clone este repositório.
 2. Abra `index.html` no seu navegador.
-3. Faça login com um usuário da FakeStoreAPI (exemplo: `johnd` / `m38rmF`).
+3. Faça login com um usuário da FakeStoreAPI (exemplo: `johnd` / `m38rmF$`).
 4. Teste a navegação, visualização e administração de produtos.
 
 ---
